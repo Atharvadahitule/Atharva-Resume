@@ -1,6 +1,6 @@
 
 ## Welcome to the Project .
-  ## Hi, I am Atharva . I have buid this project as per of Future Ready Talent Program.
+  ## Hi, I am Atharva . I have buid this project as part of Future Ready Talent Program.
   
 ## These are the Prerequisites
 
